@@ -6,7 +6,7 @@ A modern, responsive News Website built using **HTML** and **CSS**. This project
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-vercel-link.vercel.app
+🔗 **Live Website:** (https://news-web-giui.vercel.app/)
 
 ---
 
