@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 35px;
+}
+
+.card-heading {
+    font-size: 13px;
+    font-family: "Roboto";
+    color: #7b8794;
+
+
+}
+.card-paragraph-one {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+
+
+}
+
+.card-paragraph-Two {
+    font-size: 13px;
+    font-family: "Roboto";
+    color: #7b8794;
+
+}
+
+.button-card {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    height: 34px;
+    width: 104px;
+
+}
